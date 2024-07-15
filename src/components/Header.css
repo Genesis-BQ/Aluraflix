@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #00104e;
+    color: #fff;
+  }
+  
+  .header__logo h1 {
+    margin: 0;
+    color: #00d9ff;
+  }
+  
+  .header__nav a {
+    margin-left: 15px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+  }
+  
+  .header__nav a:hover {
+    color: #00fff7;
+  }
+  
